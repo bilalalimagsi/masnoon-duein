@@ -1,0 +1,41 @@
+body{
+   top: 0px;
+    width: 100%;
+    background-image: url(back7.jpeg);
+    
+    
+}
+
+header ::before{
+    background-color: blanchedalmond;
+    padding: 28px;
+    margin-top: -8px;
+    margin-left: -9px;
+    opacity:0.4;
+
+}
+a{
+    display: inline-block;
+    padding: 38px;
+    border: 1px solid black;
+    border-radius: 30px;
+    font-size: 40px;
+    background-color: rgb(252, 188, 165);
+    color: brown;
+    margin: 10px;
+}
+table,tr,td :hover{
+background-color: grey;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px;
+    border-collapse: collapse;
+    
+}
+button{
+    padding: 10px;
+    width:200px;
+    height: 80px;
+    background-color: rgb(252, 188, 165);
+    color: brown;
+}
